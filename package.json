@@ -1,0 +1,24 @@
+{
+  "name": "raducer",
+  "version": "0.1.0",
+  "description": "Utility for reducing redux boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joyt/raducer.git"
+  },
+  "keywords": [
+    "redux",
+    "react",
+    "typescript"
+  ],
+  "author": "joyt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joyt/raducer/issues"
+  },
+  "homepage": "https://github.com/joyt/raducer#readme"
+}
