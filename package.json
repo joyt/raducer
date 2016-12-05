@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/joyt/raducer/issues"
   },
-  "homepage": "https://github.com/joyt/raducer#readme"
+  "homepage": "https://github.com/joyt/raducer#readme",
+  "dependencies": {
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "@types/redux-saga": "^0.9.31",
+    "typescript": "^2.2.0-dev.20161205"
+  }
 }
